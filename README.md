@@ -1,5 +1,15 @@
-Hello! I am Yuri Oliveira. Here I am documenting my journey in technology, you can find my past learnings and ongoing projects! 
+Hello there!
+
+###About me:
 
 - 💻 Data Engineer
 - 🌎 Based in Guarulhos, São Paulo.
-- 👩‍💻 Another place you can find me: [LinkedIn](https://www.linkedin.com/in/yurioliveirasantos/)
+- Postgraduating Lato Sensu in Data Engineering - PUC Minas
+
+### Interests
+- Big Data Mordern Stack
+- Cloud Computing (Google Cloud, AWS, Azure)
+- Data Platform and DataOps
+- Large Data Processing (Spark, Hadoop)
+- Hardware, Books, Mangas
+- Music, VGMs and Portable video games
