@@ -1,6 +1,6 @@
 Hello there!
 
-###About me:
+### About me:
 
 - 💻 Data Engineer
 - 🌎 Based in Guarulhos, São Paulo.
