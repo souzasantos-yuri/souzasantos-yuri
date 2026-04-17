@@ -1,9 +1,9 @@
-Hello there!
+## Hello there!
 
 ### About me:
 
-- 💻 Data Engineer
-- 🌎 Based in Guarulhos, São Paulo.
+- Data Engineer
+- Based in Guarulhos, São Paulo.
 - Postgraduating Lato Sensu in Data Engineering - PUC Minas
 
 ### Interests
