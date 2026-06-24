@@ -10,6 +10,7 @@
 - Big Data Mordern Stack
 - Cloud Computing (Google Cloud, AWS, Azure)
 - Data Platform and DataOps
-- Large Data Processing (Spark, Hadoop)
+- Large Data Processing (Spark, PySpark)
+- Orchestration (DBT, Airflow, Prefect)
 - Hardware, Books, Mangas
 - Music, VGMs and Portable video games
